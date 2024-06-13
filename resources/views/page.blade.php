@@ -87,7 +87,7 @@
                                     class="card-img-top" alt="Gambar">
                             </div>
                             <div class="card-body" style="height: 100px;">
-                                <p class="card-text">Katedral adalah gereja utama dalam suatu keuskupan atau diocesis
+                                <p class="card-text">Katedral merupakan gereja utama dalam suatu keuskupan atau diocesis
                                     Katolik Roma.</p>
                             </div>
                         </div>
